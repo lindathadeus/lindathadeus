@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lindathadeus
 - 👀 I’m interested in analysing, transforming, synthesizing and improving
 - 🌱 I’m currently learning openai, dlang
-- 💞️ I’m looking to collaborate on algorithms, linux, compiler
+- 💞️ I’m looking to collaborate on Linux, LLM
 - 📫 Reach me at lindathadeus@gmail.com
 
 <!---
