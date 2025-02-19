@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lindathadeus
-- 👀 I’m interested in analysing, transforming, synthesizing and improving
-- 🌱 I’m currently learning openai, dlang
+- 👀 I’m interested in writing, analysing, and improving - C projects
+- 🌱 I’m currently learning golang, ziglang, dlang
 - 💞️ I’m looking to collaborate on Linux, LLM
 - 📫 Reach me at lindathadeus@gmail.com
 
